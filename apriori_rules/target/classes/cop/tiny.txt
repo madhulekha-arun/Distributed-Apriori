@@ -1,0 +1,35 @@
+umid gmid rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow GALAXY
+uupp gmid rmid imid zmid redlow GALAXY
+uupp gupp rmid imid zmid redlow STAR
+umid gmid rmid imid zmid redlow STAR
+umid gmid rmid imid zmid redmid QSO
+umid gmid rmid imid zmid redlow STAR
+umid gmid rmid imid zmid redlow STAR
+uupp gupp rmid imid zmid redlow GALAXY
+uupp gupp rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow GALAXY
+uupp gupp rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow GALAXY
+uupp gupp rmid imid zmid redlow GALAXY
+uupp gupp rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow QSO
+uupp gmid rmid imid zmid redlow STAR
+uupp gupp rupp iupp zupp redlow GALAXY
+umid gmid rmid imid zmid redlow STAR
+uupp gupp rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow GALAXY
+uupp gmid rmid imid zmid redlow GALAXY
+uupp gupp rmid imid zmid redlow GALAXY
+uupp gupp rmid imid zmid redlow GALAXY
+uupp gupp rmid imid zmid redlow GALAXY
+umid gmid rmid imid zmid redlow GALAXY
+
+
